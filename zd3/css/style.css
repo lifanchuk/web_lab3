@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.fullwrap{
+	background-image: url("../img/body-bg.png");
+	background-repeat: repeat-x;
+	position: relative;
+}
+
+.header{
+	position:relative;
+	top:35px;
+	height: 127px;
+	max-width: 950px;
+	width: 100%;
+	margin: auto;
+}
+
+img{
+	vertical-align:bottom;
+}
+
+.menu{
+	border-bottom: 2px solid rgb(210, 222, 228);
+	position: relative;
+	top: 25px;
+	height: 27px;
+}
+
+.menu a{
+	color: black;
+	text-decoration: none;
+	background: rgb(243, 246, 247);
+	font-size: 13px;
+	font-family: Arial;
+	padding: 10px 17px;
+	font-weight: 600;
+}
+
+a:hover {
+	background: rgb(210, 222, 228);
+}

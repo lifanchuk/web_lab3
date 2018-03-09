@@ -1,0 +1,22 @@
+table {
+	font-size: 15px;
+	border-collapse: collapse;
+	text-align: center;
+	 width:600px;
+}
+th, td:first-child {
+	background: #AFCDE7;
+	color: white;
+	padding: 10px 20px;
+}
+th, td {
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+}
+td {
+	background: #D8E6F3;
+}
+th:first-child, td:first-child {
+	text-align: left;
+}

@@ -1,0 +1,143 @@
+*
+{
+  margin:0;
+  padding:0;
+}
+
+.full
+{
+  margin: 50px;
+  overflow: hidden;
+}
+
+table {
+  width: 190px;
+  float:left;
+  margin:10px;
+  border-collapse: collapse;
+  text-align:center;
+  font-size: 12px;
+}
+
+.line
+{
+  height: 0px;
+}
+
+hr{
+  width:160px;
+  margin:0 auto;
+  border:0.5px dashed gray;
+}
+
+.green_table
+{
+  border: 2px solid rgb(19, 145, 123);
+  border-bottom: 8px solid rgb(19, 145, 123);
+}
+
+.orange_table
+{
+  border: 2px solid rgb(205, 129, 9);
+  border-bottom: 8px solid rgb(205, 129, 9);
+}
+
+.red_table
+{
+  border: 2px solid rgb(160, 48, 34);
+  border-bottom: 8px solid rgb(160, 48, 34);
+}
+
+h
+{
+  font-weight: bold;
+}
+
+.price
+{
+  font-weight: bold;
+  color:white;
+  font-size: 25px;
+  height: 50px;
+}
+
+.green_price
+{
+   background: rgb(22, 160, 134);
+}
+
+.orange_price
+{
+  background: rgb(243, 156, 17);
+}
+
+.red_price
+{
+  background: rgb(193, 57, 43);
+}
+
+.size
+{
+  font-size: 20px;
+  color:white;
+  height: 40px;
+}
+
+.green_size
+{
+   background: rgb(22, 160, 134);
+  border-bottom: 8px solid rgb(19, 145, 123);
+}
+
+.orange_size
+{
+   background: rgb(243, 156, 17);
+  border-bottom: 8px solid rgb(205, 129, 9);
+}
+
+.red_size
+{
+   background: rgb(193, 57, 43);
+  border-bottom: 8px solid rgb(160, 48, 34);
+}
+
+td
+{
+  height:30px;
+  color:gray;
+}
+ 
+.with_btn
+{
+  height:80px;
+}
+
+.green_btn
+{
+  width:120px;
+	height:40px;
+	background: rgb(22, 160, 134);
+	color: white;
+	font-size: 16px;
+  border:none;
+}
+
+.orange_btn
+{
+  width:120px;
+  height:40px;
+  background: rgb(243, 156, 17);
+  color: white;
+  font-size: 16px;
+  border:none;
+}
+
+.red_btn
+{
+  width:120px;
+  height:40px;
+  background: rgb(193, 57, 43);
+  color: white;
+  font-size: 16px;
+  border:none;
+}
